@@ -1,0 +1,22 @@
+***********************TAG SELECTORS********************************************
+***********************CLASS SELECTORS********************************************
+***********************ID SELECTORS********************************************
+
+img {
+  border-radius: 50%;
+}
+body{
+  background-color:#ECF4F3;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 2%;
+}
+h1,h3{
+  font-style: normal;
+  font-family:serif;
+  color: #66BFBF;
+}
